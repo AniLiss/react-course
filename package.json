@@ -1,0 +1,15 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "indexnpm install -S webpack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "elizaveta anatskaya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "webpack": "^3.5.6"
+  }
+}
